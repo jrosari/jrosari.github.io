@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR red][B]Kik[/B][/COLOR]Wizard'
 BUILDERNAME = 'kikwizard'
 EXCLUDES = [ADDON_ID, 'repository.kikwizard']
 # Text File with build info in it. Please read https://github.com/a4k-Kikproject/plugin.program.kikwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://raw.githubusercontent.com/jrosari/jrosari.github.io/master/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -87,7 +87,7 @@ CONTACTFANART = 'http://'
 #        Auto Update For Those With No Repo             #
 #########################################################
 # Enable Auto Update 'Yes' or 'No'
-AUTOUPDATE = 'Yes'
+AUTOUPDATE = 'No'
 #########################################################
 
 #########################################################
