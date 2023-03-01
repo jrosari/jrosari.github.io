@@ -87,7 +87,7 @@ CONTACTFANART = 'http://'
 #        Auto Update For Those With No Repo             #
 #########################################################
 # Enable Auto Update 'Yes' or 'No'
-AUTOUPDATE = 'Yes'
+AUTOUPDATE = 'No'
 #########################################################
 
 #########################################################
